@@ -1,0 +1,21 @@
+# Android Studio / Gradle
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle Wrapper: dağıtım zip'i indirilir (izlenmez), ama gradle-wrapper.jar
+# repoya eklenmesi GEREKEN bir dosyadır — bu yüzden özel olarak dışlanmıyor.
+
+# Firebase (google-services.json makineye/ortama özel olabilir — repoya
+# eklenip eklenmeyeceğine ekibinizle karar verin)
+# google-services.json
+
+# Kotlin
+.kotlin/

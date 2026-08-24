@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Basit "C" harfi (Crown Stok) - marka tasarımı dokümanda tanımlanmadığı
+         için minimal, nötr bir yer tutucu kullanıldı. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,34 C58,26 42,26 34,38 C26,50 26,64 34,76 C42,88 58,88 70,80 L70,68 C62,74 50,74 44,66 C38,58 38,52 44,44 C50,36 62,36 70,42 Z" />
+</vector>

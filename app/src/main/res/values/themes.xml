@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose projelerinde standart pratik: XML tema yalnızca sistem pencere
+         davranışını (splash/status bar) yönetir; gerçek renk/tipografi Compose
+         tarafında ui/theme/Theme.kt (CrownStockTheme) içinde tanımlıdır. -->
+    <style name="Theme.CrownStock" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>

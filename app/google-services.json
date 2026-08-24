@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519534028281",
+    "project_id": "crown-stok",
+    "storage_bucket": "crown-stok.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519534028281:android:d608c4b163176412b4c928",
+        "android_client_info": {
+          "package_name": "com.company.crownstock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvK6HJW2dErh0IrM1WhnIV-mt3vcMY2Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
